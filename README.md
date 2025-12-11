@@ -7,8 +7,9 @@ of languages, file extensions and synthetic placeholders to reach a large collec
 
 Included highlights: Python, JavaScript, TypeScript, C, C++, Java, C#, Go, Rust, Kotlin, Swift, PHP, Ruby,
 Shell, PowerShell, Perl, R, Haskell, OCaml, Elixir, Erlang, Lisp, Clojure, Scheme, Assembly, Fortran, Pascal,
-COBOL, Ada, MATLAB, Julia, HTML, CSS, JSON, YAML, XML, LaTeX, Brainfuck, Zig, Nim, Crystal, V, Pony, Solidity,
+COBOL, Ada, MATLAB, Julia, HTML, CSS, JSON, YAML, XML, LaTeX, Brainfuck, Zig, Nim, Crystal, V, Pony, Solidity and a few languages.
 
 Usage:
-- Unzip and examine files. Many are simple text files with the Hello World string.
+- Download and examine files. Many are simple text files with the Hello World string.
 - For compiled languages, compile with the appropriate compiler.
+# :D
